@@ -7,8 +7,6 @@ O código pode ser executado diretamente pelo google colab utilizando o .ipynb
 
 Pode baixar o .py e executar localmente também 
 
-Simulated Annealing solution for N-Queens problem
-
 # nQueensSA Simulated annealing
 Requerimentos:
 
