@@ -14,6 +14,6 @@ php8-cli
 
 Execução:
 
-#php main.php <number of queens>
+#php main.php \<number of queens\>
 
 Ex: php main.php 15
